@@ -40,10 +40,15 @@ Additionally, I created 3 more columns as follows,
 * Churned customers
 * Not churned customers
 
+## Cleaned Data
+![](telco_cleaned_data.PNG)
+
 ## Analysis
 I looaded 7,043 rows and 24 columns into Excel worksheet, and created two extra worksheet for analysis and visualization. 
 With the use of **Pivot Table**, I carried out my analysis to display key indicators in the dataset
 
+## Pivot Analysis
+![](pivot_analysis.PNG)
 
 ## Data KPIs
 * Total Customers - 7043
