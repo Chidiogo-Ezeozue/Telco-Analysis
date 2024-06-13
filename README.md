@@ -48,7 +48,10 @@ I looaded 7,043 rows and 24 columns into Excel worksheet, and created two extra 
 With the use of **Pivot Table**, I carried out my analysis to display key indicators in the dataset
 
 ## Pivot Analysis
-![](pivot_analysis.PNG)
+![](telco_pivot_analysis.PNG)
+
+## Visualization and Findings
+![](telco_dashboard.PNG)
 
 ## Data KPIs
 * Total Customers - 7043
@@ -56,9 +59,7 @@ With the use of **Pivot Table**, I carried out my analysis to display key indica
 * Retained Customers - 5174
 * Churn rate - 26.54%
 * Avg Monthly Charges - $64.8
-
-## Findings 
-
+-------------------------------------
 * Gender Churn: No significant difference between male and female customers, although females churned more by 1%..
 
 * Senior Citizen Churn: Senior citizens churn more than non senior citizens. Data shows low tech support; older customers might face difficulties in troubleshooting technical issues independently. Also, senior citizens might prioritize other expenses or services over telecom services making them more inclined to churn if they feel they are not getting adequate benefit.
@@ -78,8 +79,12 @@ With the use of **Pivot Table**, I carried out my analysis to display key indica
 * Device Protection: No device protection rate is 39% high and customers without are likely to churn more. Unsatisfactory response or delays in device replacement or repair services can contribute to customer churn behavior.
 
 
-Recommendations
+## Recommendations
 
 1. I would recommend offering customers personalized contract options tailored to individual customer needs and usage patterns. This personalized approach can help increase customer satisfaction, reduce churn rate, and improve overall customer loyalty.
 
 2. Customers should also be encouraged to extend their contract  term through an improved customer experience like available tech support, sufficient online security, stand-by online backup as well 24/7 device protection.
+
+![](THANKS.jpg)
+
+## Thanks for getting here.
